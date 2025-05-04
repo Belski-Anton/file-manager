@@ -1,7 +1,7 @@
 import os from "os";
 import process from "process";
 import readline from "readline";
-
+import { handleCommand } from "./src/utils/commandRouter.js";
 
 const args = process.argv.slice(2);
 const usernameArg = args.find((arg) => arg.startsWith("--username="));
