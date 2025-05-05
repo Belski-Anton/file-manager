@@ -1,6 +1,6 @@
 # File Manager
 
-**File Manager is a CLI application written in Node.js that allows you to manage files and directories:
+**File Manager is a CLI application written in Node.js that allows you to manage files and directories:**
 
 Navigate through the file system
 
